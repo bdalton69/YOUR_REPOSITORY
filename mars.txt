@@ -1,6 +1,6 @@
 Mars is cold and dry
 It is the red planet
-:q
-:
-q
-ZZ
+
+
+
+
